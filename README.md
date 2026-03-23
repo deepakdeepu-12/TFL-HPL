@@ -113,7 +113,7 @@ print(f"Accuracy: {accuracy:.2%}, Privacy: ε={privacy_budget:.2f}")
 ## Publication
 
 **Conference**: IEEE GSEACT 2026  
-**Status**: Ready for Submission  
+**Status**: Submission completed 
 **Deadline**: February 15, 2026  
 
 ## Citation
